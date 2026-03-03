@@ -1,4 +1,4 @@
-# AI-Powered Fitness Activity Recommendation System
+# AI-Powered Fitness Activity Recommendation System 
 
 A microservices-based fitness tracking application that enables users to log activities and receive AI-powered personalized fitness recommendations.
 
